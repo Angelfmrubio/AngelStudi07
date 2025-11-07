@@ -1,0 +1,8 @@
+{
+  "name": "Angelstudi07 Suite Creativa con IA",
+  "description": "Una aplicación creativa todo en uno impulsada por Gemini, que ofrece herramientas para la generación de texto, análisis de imágenes, creación de imágenes y video, conversación en tiempo real y más, todo envuelto en una interfaz inspiradora.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
